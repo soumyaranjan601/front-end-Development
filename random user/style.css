@@ -1,0 +1,154 @@
+
+.line{
+    height: 39px;
+    width:1230px;
+    background-color: rgb(17, 17, 17);
+}
+.nav-pills{
+    display: flex;
+    list-style-type: none;
+    margin-left: 250px;
+   
+}
+.list{
+    padding: 10px;
+    font-size: 11px;
+    margin-top: 0.7rem;
+    font-family: arial;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.container-box{
+    height: 290px;
+    width: 1230px;
+    background-color: rgb(46, 43, 54);
+    position: relative;
+    position: absolute;
+}
+.box2{
+    height: 230px;
+    width: 470px;
+    background-color: rgb(255, 251, 251);
+    position: relative;
+    position: absolute;
+    left: 390px;
+    bottom: 210px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px gray;
+}
+.box3{
+    height: 140px;
+    width: 460px;
+    left: 390px;
+    bottom: 44px;
+    padding: 3px;
+    border: 0.01px solid rgb(132, 126, 126);
+    position: relative;
+    position: absolute;
+}
+.heading{
+    align-items: center;
+    position: absolute;
+   margin-left: 395px;
+   color: white;
+   font-family:Arial;
+   font-size: 30px;
+}
+.text1{
+    padding: 60px 370px;
+    color: white;
+    font-size: 12px;
+    font-family:Arial;
+
+}
+.icon{
+  position: absolute;
+  margin-top: 2px;
+}
+.icon-1{
+  position: relative;
+  position: absolute;
+  margin-left: 305px;
+  height: 20px;
+  width: 20px;
+  cursor: pointer;
+}
+.icon-2{
+    position: relative;
+    position: absolute;
+    margin-left: 368px;
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+  }
+  .icon-3{
+    position: relative;
+    position: absolute;
+    margin-left: 455px;
+    height: 18px;
+    width: 20px;
+    cursor: pointer;
+  }
+  .icon-4{
+    position: relative;
+    position: absolute;
+    margin-left: 540px;
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+  }
+  .icon-5{
+    position: relative;
+    position: absolute;
+    margin-left: 620px;
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+  }
+  .icon-6{
+    position: relative;
+    position: absolute;
+    margin-left: 690px;
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+  }
+  .icon-7{
+    position: relative;
+    position: absolute;
+    margin-left: 765px;
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+  }
+  .icon-8{
+    position: relative;
+    position: absolute;
+    margin-left: 875px;
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+  }
+  .tap{
+    position: relative;
+    position: absolute;
+    margin: 105px 180px;
+    height: 30px;
+    width: 100px;
+    color: white;
+    background-color: rgb(129, 176, 59);
+    border-inline-style:  none;
+    border: 0cap;
+    border-radius: 2px;
+  }
+  .gen-img{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    position: absolute;
+    margin: 10px 180px;
+    border-radius: 50%;
+  }
